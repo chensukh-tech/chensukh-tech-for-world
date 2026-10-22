@@ -1,1 +1,1 @@
-# chensukh-tech-for-world!
+# chensukh-tech-for-world
