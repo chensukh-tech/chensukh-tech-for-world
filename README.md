@@ -1,13 +1,5 @@
 
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:03050C,35:10102B,70:162C55,100:5B21B6&height=210&section=header&text=CHENSUKH%20%2F%2F%20TECH&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=ENGINEERING%20TOMORROW%2C%20ONE%20IDEA%20AT%20A%20TIME&descSize=12&descAlignY=60"/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2600&pause=700&color=71C7FF&center=true&vCenter=true&width=650&lines=Initializing+creative+systems...;Exploring+the+world+of+AI+%26+ML;Turning+curiosity+into+working+code;SYSTEM+STATUS%3A+EVOLVING" alt="Animated terminal text"/></div>┌─────────────────────────────────────────────────────────┐
-│  NEURAL//VOID                              SYS.001       │
-│                                                         │
-│  TOOLS EVOLVE. IDEAS HAVE NO LIMIT.                     │
-│                                                         │
-│  DOMAIN   : SOFTWARE / AI / CREATIVE TECHNOLOGY         │
-│  OPERATOR : CHENSUKH-TECH                               │
-│  MISSION  : LEARN → BUILD → ITERATE                     │
-└─────────────────────────────────────────────────────────┘
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:03050C,35:10102B,70:162C55,100:5B21B6&height=210&section=header&text=CHENSUKH%20%2F%2F%20TECH&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=ENGINEERING%20TOMORROW%2C%20ONE%20IDEA%20AT%20A%20TIME&descSize=12&descAlignY=60"/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2600&pause=700&color=71C7FF&center=true&vCenter=true&width=650&lines=Initializing+creative+systems...;Exploring+the+world+of+AI+%26+ML;Turning+curiosity+into+working+code;SYSTEM+STATUS%3A+EVOLVING" alt="Animated terminal text"/
 
 "01" — Signal detected
 
