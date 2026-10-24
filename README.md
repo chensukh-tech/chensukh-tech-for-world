@@ -1,74 +1,113 @@
-⚡ CHENSUKH-TECH | CODE. CREATE. CONQUER. 🎧
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:301060,100:00E5FF&height=200&section=header&text=CHENSUKH-TECH&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20CODE%20%7C%20CREATIVITY&descSize=16&descAlignY=58" width="100%"/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=600&lines=First+start+the+race%2C+then+win+it.;B.Tech+CSE+%7C+AI+%26+ML;Learning.+Building.+Innovating.;Turning+ideas+into+reality." alt="Typing animation"/>""GitHub" (https://img.shields.io/badge/GitHub-chensukh--tech-181717?style=for-the-badge&logo=github)" (https://github.com/chensukh-tech)
-""Profile Views" (https://komarev.com/ghpvc/?username=chensukh-tech&style=for-the-badge&color=00E5FF)" (https://github.com/chensukh-tech)
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:03050C,35:10102B,70:162C55,100:5B21B6&height=210&section=header&text=CHENSUKH%20%2F%2F%20TECH&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=ENGINEERING%20TOMORROW%2C%20ONE%20IDEA%20AT%20A%20TIME&descSize=12&descAlignY=60"/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2600&pause=700&color=71C7FF&center=true&vCenter=true&width=650&lines=Initializing+creative+systems...;Exploring+the+world+of+AI+%26+ML;Turning+curiosity+into+working+code;SYSTEM+STATUS%3A+EVOLVING" alt="Animated terminal text"/></div>┌─────────────────────────────────────────────────────────┐
+│  NEURAL//VOID                              SYS.001       │
+│                                                         │
+│  TOOLS EVOLVE. IDEAS HAVE NO LIMIT.                     │
+│                                                         │
+│  DOMAIN   : SOFTWARE / AI / CREATIVE TECHNOLOGY         │
+│  OPERATOR : CHENSUKH-TECH                               │
+│  MISSION  : LEARN → BUILD → ITERATE                     │
+└─────────────────────────────────────────────────────────┘
 
-</div>---
+"01" — Signal detected
 
-🎧 About Me
+<table>
+<tr>
+<td width="60%" valign="top">Hey, I'm Chensukh.
 
-class Chensukh:
-    name = "Chensukh"
-    username = "chensukh-tech"
-    education = "B.Tech CSE (AI & ML)"
-    interests = [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Programming",
-        "Creative Technology"
-    ]
-    motto = "First start the race, then win it."
+I'm a first-year B.Tech CSE student specializing in AI and Machine Learning.
 
-    def current_goal(self):
-        return "Learn, build, and keep improving."
+I'm exploring how programming, intelligent systems, and creative thinking can come together to build useful things.
 
-me = Chensukh()
+- "//" Learning the fundamentals of programming
+- "//" Exploring AI-powered applications
+- "//" Developing problem-solving skills
+- "//" Turning experimental ideas into projects
 
-- 🎓 B.Tech Computer Science student specializing in AI & ML
-- 🤖 Exploring AI tools and intelligent applications
-- 💻 Learning C, C++, Python, and software development
-- 🎨 Interested in AutoCAD, editing, and creative design
-- 🚀 Building projects and sharing my learning journey
+Current mindset: Build first. Improve continuously.
 
----
+</td>
+<td width="40%" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=python,cpp,c,github,vscode&theme=dark&perline=2" width="170"/><br/><br/>
 
-⚡ My Tech Stack
+<img src="https://img.shields.io/badge/PROFILE-UNDER_CONSTRUCTION-0B1020?style=for-the-badge&labelColor=0B1020&color=7657FF"/></td>
+</tr>
+</table>---
 
-<div align="center"><img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode,html,css&theme=dark" alt="Technology skills"/>Also exploring: "AI Tools" · "Machine Learning" · "AutoCAD" · "Problem Solving"
+"02" — The technology matrix
 
-</div>---
+<div align="center"><table>
+<tr>
+<td align="left" width="50%">01 / CODE
 
-🚀 Featured Projects
+<img src="https://skillicons.dev/icons?i=c,cpp,python&theme=dark" />"Logic" · "Algorithms" · "Programming"
 
-Project| Description
-🤖 StudyPilot AI| An AI-powered study assistant concept
-💻 C Programming| Programs, logic building, and problem-solving
-🎨 Creative Projects| Design, editing, and digital creativity
+</td>
+<td align="left" width="50%">02 / INTELLIGENCE
 
-More projects coming soon as I continue learning and building.
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />"AI exploration" · "Machine learning"
 
----
+</td>
+</tr>
+<tr>
+<td align="left">03 / DEVELOPMENT
 
-📊 My GitHub Dashboard
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />"Version control" · "Developer tools"
 
-<div align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=chensukh-tech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00E5FF&icon_color=BB86FC" alt="GitHub stats"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chensukh-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00E5FF" alt="Most used languages"/><img width="75%" src="https://streak-stats.demolab.com?user=chensukh-tech&theme=tokyonight&hide_border=true&background=000000&ring=00E5FF&fire=BB86FC" alt="GitHub streak"/></div>---
+</td>
+<td align="left">04 / DESIGN & CREATION
 
-🐍 Contribution Activity
+<img src="https://skillicons.dev/icons?i=html,css&theme=dark" />"AutoCAD" · "Creative editing" · "AI tools"
 
-<div align="center"><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%"/></div>---
+</td>
+</tr>
+</table></div>---
 
-🌐 Let's Connect
+"03" — Projects entering the system
 
-<div align="center">""GitHub" (https://img.shields.io/badge/GitHub-Follow_My_Journey-181717?style=for-the-badge&logo=github)" (https://github.com/chensukh-tech)
+<details>
+<summary><strong>◈ STUDYPILOT AI — Intelligent learning environment</strong></summary>An AI-powered study assistant concept focused on making study workflows more organized and interactive.
 
-""LinkedIn" (https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)" (https://www.linkedin.com/)
+Planned direction
 
-</div>---
+- A clean, modern learning dashboard
+- Study planning and progress tracking
+- AI-assisted learning features
+- An intuitive student experience
 
-<div align="center">💫 MY PHILOSOPHY
+Status: In development / experimentation. Update this status as the project progresses.
 
-"First start the race, and then win it."
+</details><details>
+<summary><strong>◈ CODE ARCHIVE — Programming laboratory</strong></summary>A growing collection of practice programs and experiments.
 
-Dream big. Learn relentlessly. Build fearlessly.
+- C programming fundamentals
+- Logic-building exercises
+- Python exploration
+- Small projects that grow with my skills
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:301060,100:000000&height=120&section=footer" width="100%"/></div># chensukh-tech-for-world
+Goal: Make the learning process visible through real code.
+
+</details><details>
+<summary><strong>◈ CREATIVE LAB — Technology meets design</strong></summary>A space for experimenting with technical drawing, digital editing, visual concepts, and AI-assisted creativity.
+
+</details>---
+
+"04" — Developer telemetry
+
+<div align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=chensukh-tech&show_icons=true&hide_border=true&bg_color=070912&title_color=71C7FF&text_color=DBE4FF&icon_color=9B7BFF"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chensukh-tech&layout=compact&hide_border=true&bg_color=070912&title_color=71C7FF&text_color=DBE4FF"/><br/><img width="70%" src="https://streak-stats.demolab.com?user=chensukh-tech&hide_border=true&background=070912&ring=71C7FF&fire=FF476F&currStreakLabel=9B7BFF&sideLabels=DBE4FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8792B0"/></div>---
+
+"05" — The signal network
+
+<div align="center"><a href="https://github.com/chensukh-tech">
+<img src="https://img.shields.io/badge/GITHUB-REPOSITORIES-0B1020?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0B1020&color=3978FF"/>
+</a>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0B1020?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=0B1020&color=7657FF"/>
+</a><br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3978FF,50:7657FF,100:FF476F&height=3&section=footer" width="100%"/>"ENDLESS CURIOSITY // CONTINUOUS EVOLUTION"
+
+First start the race. Then win it.
+
+<sub>Designed in the dark. Built one commit at a time.</sub>
+
+</div>
